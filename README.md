@@ -8,7 +8,7 @@ Clone o repo:
 ```bash
 git clone https://github.com/BrunoMendes41/AngularTaskManager.git
 ```
-instale as dependências
+instale as dependências:
 ```bash
 npm install
 ```
@@ -18,9 +18,9 @@ Rode o projeto:
 ```bash
 ng serve
 ```
-Rodar servidor de testes:
+Rode o servidor de testes:
 ```bash
 npm run server
 ```
-O projeto rodará no localhost:4200
-e o servidor de testes no localhost:5000
+
+Abra o navegador no [localhost:4200](localhost:4200/)
